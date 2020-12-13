@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img align="right" alt="graves's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=graveszhang&theme=dark&show_icons=true">
 -->
 
-I'm a senior ECE student with strong CS background seeking a internship.
+#### 👈🏻 &nbsp;&nbsp; About Me
 
 - 🖥   Programming Language: C/C++, Python, SQL, Perl, HTML, CSS, JavaScript, Verilog
 - 💼   Frameworks: Flask, Bootstrap, React, Django, TensorFlow, CUDA, PyTorch, Hadoop
