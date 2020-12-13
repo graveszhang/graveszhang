@@ -20,7 +20,7 @@ I'm a senior ECE student with strong CS background seeking a internship.
 - 🥺   My BB: [💕](https://github.com/siyinm)
 - 🖥   Programming Language: C/C++, Python, SQL, Perl, HTML, CSS, JavaScript, Verilog
 - 👨🏻‍💻 Frameworks: Flask, Bootstrap, React, Django, TensorFlow, CUDA, PyTorch
-- 📚   I’m currently learning Big Data Stsyem, Cloud Computing
+- 📚   I’m currently learning Big Data System, Cloud Computing
 - 💬   Send me email via gravescn7 at gmail dot com
 
 
