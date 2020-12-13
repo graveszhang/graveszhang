@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm a senior ECE student with strong CS background seeking a internship.
 
 - 🖥   Programming Language: C/C++, Python, SQL, Perl, HTML, CSS, JavaScript, Verilog
-- 👨🏻‍💻 Frameworks: Flask, Bootstrap, React, Django, TensorFlow, CUDA, PyTorch, Hadoop
+- 💼   Frameworks: Flask, Bootstrap, React, Django, TensorFlow, CUDA, PyTorch, Hadoop
 - 📚   I’m currently learning Big Data System, Cloud Computing
 - 💬   Send me email via gravescn7 at gmail dot com
 
