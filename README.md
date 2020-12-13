@@ -1,4 +1,4 @@
-### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **graveszhang/graveszhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 ### 👈🏻 &nbsp;&nbsp; About Me
-
 - 🖥   Programming Language: C/C++, Python, SQL, Perl, HTML, CSS, JavaScript, Verilog
 - 💼   Frameworks: Flask, Bootstrap, React, Django, TensorFlow, CUDA, PyTorch, Hadoop
 - 📚   I’m currently learning Big Data System, Cloud Computing
