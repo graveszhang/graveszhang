@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img align="right" alt="graves's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=graveszhang&theme=dark&show_icons=true">
 -->
 
 I'm a senior ECE student with strong CS background seeking a internship.
@@ -23,4 +24,3 @@ I'm a senior ECE student with strong CS background seeking a internship.
 - 💬   Send me email via gravescn7 at gmail dot com
 
 
-<img align="right" alt="graves's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=graveszhang&theme=dark&show_icons=true">
