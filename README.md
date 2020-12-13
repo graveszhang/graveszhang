@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 
 ### 👈🏻 &nbsp;About Me
-- 🖥   Programming Language: C/C++, Python, SQL, Perl, HTML, CSS, JavaScript, Verilog
-- 💼   Frameworks: Flask, Bootstrap, React, Django, TensorFlow, CUDA, PyTorch, Hadoop
-- 📚   I’m currently learning Big Data System, Cloud Computing
-- 💬   Send me email via gravescn7 at gmail dot com
+- 🖥 &nbsp; Programming Language: C/C++, Python, SQL, Perl, HTML, CSS, JavaScript, Verilog
+- 💼 &nbsp; Frameworks: Flask, Bootstrap, React, Django, TensorFlow, CUDA, PyTorch, Hadoop
+- 📚 &nbsp; I’m currently learning Big Data System, Cloud Computing
+- 💬 &nbsp; Send me email via gravescn7 at gmail dot com
 
 
