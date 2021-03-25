@@ -1,6 +1,4 @@
-### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-👀&nbsp; Welcome to my page!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! Welcome to my page.
 
 I'm a senior majoring in ECE at Shanghai Jiao Tong University, and a SWE intern at <img alt="Wish China" src="https://img.shields.io/badge/Wish-China-white?colorA=33c4ff&colorB=5f6a6a&style=flat&logo=wish&logoColor=white" />
 
@@ -24,7 +22,7 @@ I'm also an ex-intern at <img alt="AMD" src="https://img.shields.io/badge/AMD-Sh
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://graveszhang.github.io" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://graveszhang.github.io" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://twitter.com/gravescn7" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/liqin-z-b0855a198/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://www.instagram.com/zhanggraves/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/instagram-dd2a7b.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
