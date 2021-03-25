@@ -1,25 +1,32 @@
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**graveszhang/graveszhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀&nbsp; Welcome to my page!
 
-Here are some ideas to get you started:
-- 🥺   My BB: [💕](https://github.com/siyinm)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<img align="right" alt="graves's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=graveszhang&theme=dark&show_icons=true">
--->
+I'm a senior majoring in ECE at Shanghai Jiao Tong University, and a SWE intern at <img alt="Wish China" src="https://img.shields.io/badge/Wish-China-white?colorA=33c4ff&colorB=5f6a6a&style=flat&logo=wish&logoColor=white" />
 
-#### 👀&nbsp;&nbsp; I'm an undergraduate student at Shanghai Jiao Tong University, an ex-intern at Advanced Micro Devices.
-- 🖥 &nbsp; Programming Language: C/C++, Java, Python, SQL, Perl, HTML, CSS, JavaScript, Verilog
-- 💼 &nbsp; Frameworks: Flask, Bootstrap, React, Django, TensorFlow, CUDA, PyTorch, Hadoop
-- 📚 &nbsp; I’m currently learning Compilers, Distributed System
-- 💬 &nbsp; Send me email via gravescn7 at gmail dot com
+I'm also an ex-intern at <img alt="AMD" src="https://img.shields.io/badge/AMD-Shanghai R&D Center-white?colorA=e74c3c&colorB=5f6a6a&style=flat&logo=amd&logoColor=white" />
 
+<h3>Things I code with</h3>
+<p>
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-45b8d8?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-007ACC?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-5849BE?style=flat-square&logo=Vue.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-430098?style=flat-square&logo=react&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+
+<h3>Where to find me</h3>
+<p>
+  <a href="https://graveszhang.github.io" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://twitter.com/gravescn7" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/liqin-z-b0855a198/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.instagram.com/zhanggraves/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/instagram-dd2a7b.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
