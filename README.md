@@ -1,7 +1,7 @@
 
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hi there! Welcome to my page.</h2>
 <p align="center">
-I'm a senior majoring in ECE at Shanghai Jiao Tong University, and a SWE intern at <img alt="Wish China" src="https://img.shields.io/badge/Wish-China-white?colorA=33c4ff&colorB=5f6a6a&style=flat&logo=wish&logoColor=white" />
+I'm a senior majoring in ECE at Shanghai Jiao Tong University, and a Software Engineer Intern at <img alt="Wish China" src="https://img.shields.io/badge/Wish-China-white?colorA=33c4ff&colorB=5f6a6a&style=flat&logo=wish&logoColor=white" />
 </p>
 <p align="center">
 I'm also an ex-intern at <img alt="AMD" src="https://img.shields.io/badge/AMD-Shanghai R&D Center-white?colorA=e74c3c&colorB=5f6a6a&style=flat&logo=amd&logoColor=white" />
@@ -15,7 +15,6 @@ I'm also an ex-intern at <img alt="AMD" src="https://img.shields.io/badge/AMD-Sh
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-5849BE?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-430098?style=flat-square&logo=react&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-Amazon Web Services-B7178C?style=flat-square&logo=Amazon-AWS&logoColor=white" />
-  <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache Spark-CC6699?style=flat-square&logo=Apache-Spark&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-db7092?style=flat-square&logo=redis&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
