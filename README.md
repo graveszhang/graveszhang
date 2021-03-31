@@ -14,8 +14,9 @@ I'm also an ex-intern at <img alt="AMD" src="https://img.shields.io/badge/AMD-Sh
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-007ACC?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-5849BE?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-430098?style=flat-square&logo=react&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-B7178C?style=flat-square&logo=Amazon-AWS&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-db7092?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<!--   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> -->
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-FB542B?style=flat-square&logo=Ubuntu&logoColor=white" />
