@@ -21,7 +21,8 @@ I'm also an ex-intern at <img alt="AMD" src="https://img.shields.io/badge/AMD-Sh
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-FB542B?style=flat-square&logo=Ubuntu&logoColor=white" />
   <img alt="nginx" src="https://img.shields.io/badge/-NGINX-F9A03C?style=flat-square&logo=nginx&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-7de73c?style=flat-square&logo=Webpack&logoColor=white" />
+  <img alt="Kubernete" src="https://img.shields.io/badge/-Kubernetes-f8a04c?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-70c83a?style=flat-square&logo=Webpack&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
