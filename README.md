@@ -2,8 +2,7 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hi there! Welcome to my page.</h2>
 <p align="center">
 I'm a senior majoring in ECE at Shanghai Jiao Tong University, and a Software Engineer Intern at <img alt="Wish China" src="https://img.shields.io/badge/Wish-China-white?colorA=33c4ff&colorB=5f6a6a&style=flat&logo=wish&logoColor=white" />
-</p>
-<p align="center">
+<br>
 I'm also an ex-intern at <img alt="AMD" src="https://img.shields.io/badge/AMD-Shanghai R&D Center-white?colorA=e74c3c&colorB=5f6a6a&style=flat&logo=amd&logoColor=white" />
 </p>
 <h3 align="center" >Things I code with</h3>
