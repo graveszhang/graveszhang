@@ -30,7 +30,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <br>
-  <img alt="wakatime" src="https://wakatime.com/share/@bb8d7578-ab08-4df9-bf32-d34447ca1bd0/ab8e1e3a-6c8e-4faa-8398-19d733dde958.svg" width="50%"  />
+  <img alt="wakatime" src="https://wakatime.com/share/@bb8d7578-ab08-4df9-bf32-d34447ca1bd0/3ff3001f-67b4-43e7-956f-58646be90a4e.svg" width="50%"  />
 
 </p>
 
