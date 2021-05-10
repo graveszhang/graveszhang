@@ -35,3 +35,5 @@ I'm also an ex-intern at <img alt="AMD" src="https://img.shields.io/badge/AMD-Sh
   <a href="https://www.instagram.com/zhanggraves/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/instagram-dd2a7b.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
+<figure><embed src="https://wakatime.com/share/@bb8d7578-ab08-4df9-bf32-d34447ca1bd0/6379914a-8570-4d36-aebb-fe7d08496055.svg"></embed></figure>
+
