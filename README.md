@@ -1,10 +1,14 @@
 
-<h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hi there! Welcome to my page.</h2>
+<h2 align="center"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hi there! Welcome to my page.
+</h2>
+
 <p align="center">
-I'm a senior majoring in ECE at Shanghai Jiao Tong University, and a Software Engineer Intern at <img alt="Wish China" src="https://img.shields.io/badge/Wish-China-white?colorA=33c4ff&colorB=5f6a6a&style=flat&logo=wish&logoColor=white" />
-<br>
-I'm also an ex-intern at <img alt="AMD" src="https://img.shields.io/badge/AMD-Shanghai R&D Center-white?colorA=e74c3c&colorB=5f6a6a&style=flat&logo=amd&logoColor=white" />
+  I'm a senior majoring in ECE at Shanghai Jiao Tong University, and a Software Engineer Intern at <img alt="Wish China" src="https://img.shields.io/badge/Wish-China-white?colorA=33c4ff&colorB=5f6a6a&style=flat&logo=wish&logoColor=white" />
+  <br>
+  I'm also an ex-intern at <img alt="AMD" src="https://img.shields.io/badge/AMD-Shanghai R&D Center-white?colorA=e74c3c&colorB=5f6a6a&style=flat&logo=amd&logoColor=white" />
 </p>
+
 <h3 align="center" >Things I code with</h3>
 <p align="center">
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-45b8d8?style=flat-square&logo=flask&logoColor=white" />
@@ -25,6 +29,9 @@ I'm also an ex-intern at <img alt="AMD" src="https://img.shields.io/badge/AMD-Sh
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-70c83a?style=flat-square&logo=Webpack&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<br>
+  <img alt="wakatime" src="https://wakatime.com/share/@bb8d7578-ab08-4df9-bf32-d34447ca1bd0/ab8e1e3a-6c8e-4faa-8398-19d733dde958.svg" width="50%"  />
+
 </p>
 
 <h3 align="center">Where to find me</h3>
@@ -34,6 +41,4 @@ I'm also an ex-intern at <img alt="AMD" src="https://img.shields.io/badge/AMD-Sh
   <a href="https://www.linkedin.com/in/liqin-z-b0855a198/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://www.instagram.com/zhanggraves/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/instagram-dd2a7b.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-
-<figure><embed src="https://wakatime.com/share/@bb8d7578-ab08-4df9-bf32-d34447ca1bd0/6379914a-8570-4d36-aebb-fe7d08496055.svg"></embed></figure>
 
