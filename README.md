@@ -30,8 +30,12 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <br>
-  <img alt="wakatime" src="https://wakatime.com/share/@bb8d7578-ab08-4df9-bf32-d34447ca1bd0/3ff3001f-67b4-43e7-956f-58646be90a4e.svg" width="65%"  />
+</p>
 
+<p align="center">
+  <strong><em>Coding Activity over Last 7 days</em></strong>
+  <br>
+  <img alt="wakatime" src="https://wakatime.com/share/@bb8d7578-ab08-4df9-bf32-d34447ca1bd0/3ff3001f-67b4-43e7-956f-58646be90a4e.svg" width="65%"  />
 </p>
 
 <h3 align="center">Where to find me</h3>
