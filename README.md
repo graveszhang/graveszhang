@@ -33,9 +33,9 @@
 </p>
 
 <p align="center">
-  <strong><em>Coding Activity over Last 7 days</em></strong>
+  <strong><em>Coding Activity over Last 30 days</em></strong>
   <br>
-  <img alt="wakatime" src="https://wakatime.com/share/@bb8d7578-ab08-4df9-bf32-d34447ca1bd0/3ff3001f-67b4-43e7-956f-58646be90a4e.svg" width="65%"  />
+  <img alt="wakatime" src="https://wakatime.com/share/@bb8d7578-ab08-4df9-bf32-d34447ca1bd0/190ca19d-a32c-44da-9419-be5892577c21.svg" width="65%"  />
 </p>
 
 <h3 align="center">Where to find me</h3>
