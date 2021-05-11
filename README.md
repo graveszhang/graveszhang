@@ -13,8 +13,8 @@
 <p align="center">
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-45b8d8?style=flat-square&logo=flask&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Alpine Linux" src="https://img.shields.io/badge/-Alphine-1a73e8?style=flat-square&logo=Alpine-Linux&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-007ACC?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-1a73e8?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-5849BE?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-430098?style=flat-square&logo=react&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-Amazon Web Services-B7178C?style=flat-square&logo=Amazon-AWS&logoColor=white" />
