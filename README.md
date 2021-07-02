@@ -32,12 +32,12 @@
 <br>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <strong><em>Coding Activity over Last 30 days</em></strong>
   <br>
   <img alt="wakatime" src="https://wakatime.com/share/@bb8d7578-ab08-4df9-bf32-d34447ca1bd0/3f9d4bd5-cd45-452e-9128-558753c2ab40.svg" width="65%"  />
 </p>
-
+ -->
 <h3 align="center">Where to find me</h3>
 <p align="center">
   <a href="https://graveszhang.github.io" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
